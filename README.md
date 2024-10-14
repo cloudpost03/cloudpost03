@@ -1,13 +1,11 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cloudpost03.cloudpost03&"  />
 </div>
-
 ###
 # 💻 DevOps Enthusiast | Cloud Architect | Automation Guru 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
