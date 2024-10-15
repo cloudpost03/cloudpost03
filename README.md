@@ -34,9 +34,9 @@
 --
 ### 🛠️ Technologies & Tools I Love Working With: 
 - **Cloud Platforms**: AWS, Azure, GCP 🌩️
-- **Infrastructure as Code**: Terraform, CloudFormation, Pulumi 📜
+- **Infrastructure as Code**: Terraform, CloudFormation,📜
 - **Configuration Management**: Ansible, Chef, Puppet 🤖
-- **CI/CD**: Jenkins, GitHub Actions, GitLab CI, CircleCI 🛠️
+- **CI/CD**: Jenkins, GitHub Actions, 🛠️
 - **Containers & Orchestration**: Docker, Kubernetes 🐳
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack 📈
 - **Programming & Scripting**: Python, Bash, YAML, PowerShell 💡
