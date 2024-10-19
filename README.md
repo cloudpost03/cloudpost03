@@ -1,7 +1,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cloudpost03.cloudpost03&"  />
 </div>
-###
 # 💻 DevOps | Cloud Architect | Automation 
 <a
     id="cy-effective-orcid-url"
