@@ -16,7 +16,6 @@
       https://orcid.org/0009-0009-5897-7096
     </a>
 <h3 align="left">🛠 Language and tools</h3>
-###
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
