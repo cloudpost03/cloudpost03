@@ -2,9 +2,21 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cloudpost03.cloudpost03&"  />
 </div>
 ###
-# 💻 DevOps Enthusiast | Cloud Architect | Automation Guru 
+# 💻 DevOps | Cloud Architect | Automation 
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0009-5897-7096"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0009-5897-7096
+    </a>
 <h3 align="left">🛠 Language and tools</h3>
-
 ###
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
