@@ -17,7 +17,7 @@
       https://orcid.org/0009-0009-5897-7096
     </a>
   <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="400" height="200" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <h3 align="left">🛠 Language and tools</h3>
 <div align="right">
