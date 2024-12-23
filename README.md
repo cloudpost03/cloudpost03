@@ -17,10 +17,11 @@
       https://orcid.org/0009-0009-5897-7096
     </a>
   <a target="_blank" align="center">
-  <img align="right" top="400" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<h3 align="left">🛠 Language and tools</h3>
-<div align="right">
+  <img align="left" top="400" height="100" width="150" alt="GIF" src="Animation1.gif">
+<img align="right" top="400" height="100" width="200" alt="GIF" src="Animation.gif">
+  </a>
+<h3 align="Cente">🛠 Language and tools</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
