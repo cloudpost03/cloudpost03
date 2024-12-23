@@ -17,8 +17,7 @@
       https://orcid.org/0009-0009-5897-7096
     </a>
   <a target="_blank" align="center">
-  <img align="left" top="400" height="100" width="150" alt="GIF" src="Animation1.gif">
-<img align="right" top="400" height="100" width="200" alt="GIF" src="Animation.gif">
+ <img align="right" top="400" height="200" width="400" alt="GIF" src="Animation3.gif">
   </a>
 <h3 align="Cente">🛠 Language and tools</h3>
 <div align="center">
@@ -74,7 +73,7 @@
 ### 🤝 Let's Connect:
 
 - 🌐 [Website](https://www.aiethicallab.com
-- 💼 [LinkedIn](https://linkedin.com/in/cloudpost03) 
+- 💼 [LinkedIn](https://linkedin.com/in/pravin-devops) 
 - 📝 [Dev.to](https://dev.to/cloudpost03
 - ✉️ Reach me at: [cloudpost03@gmail.com](mailto:cloudpost03@gmail.com)
 
