@@ -66,20 +66,20 @@
 **Hello!** I'm Pravin Kumar 👋, a passionate DevOps Engineer and Cloud Enthusiast, always ready to automate, optimize, and innovate! 🚀
 --
 ### 🛠️ Technologies & Tools I Love Working With: 
-- **Cloud Platforms**: AWS, Azure, GCP 🌩️
+- **Cloud Platforms**: AWS, Azure 🌩️
 - **Infrastructure as Code**: Terraform, CloudFormation,📜
-- **Configuration Management**: Ansible, Chef, Puppet 🤖
-- **CI/CD**: Jenkins, GitHub Actions, 🛠️
+- **Configuration Management**: Ansible 🤖
+- **CI/CD**: Jenkins 🛠️
 - **Containers & Orchestration**: Docker, Kubernetes 🐳
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack 📈
-- **Programming & Scripting**: Python, Bash, YAML, PowerShell 💡
+- **Monitoring & Logging**: Prometheus, Grafana📈
+- **Programming & Scripting**: Python, Bash, PowerShell 💡
 
 ---
 
 ### 🌱 Currently Learning:
 - **Scaling Kubernetes Clusters** with advanced network policies and storage classes
 - **Serverless Architectures** on AWS Lambda & Azure Functions
-- Exploring **GitOps** with ArgoCD and FluxCD
+- Exploring **Microservices projects"
 
 ---
 ### 📊 GitHub Stats:
@@ -91,8 +91,7 @@
 
 ### 🤝 Let's Connect:
 
-- 🌐 [Website](https://www.aiethicallab.com
-- 💼 [LinkedIn](https://linkedin.com/in/pravin-devops) 
+- - 💼 [LinkedIn](https://linkedin.com/in/pravin-devops) 
 - 📝 [Dev.to](https://dev.to/cloudpost03
 - ✉️ Reach me at: [cloudpost03@gmail.com](mailto:cloudpost03@gmail.com)
 
